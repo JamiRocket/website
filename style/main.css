@@ -1,0 +1,24 @@
+body {
+    background-color: #1f110b;
+    margin:auto;
+}
+
+.bg_orange {
+    background-color: #ec4f17;
+}
+
+.bg_yellow {
+    background-color: #dcda1c;
+}
+
+.bg_green {
+    background-color: #19c315;
+}
+
+.bg_blue {
+    background-color: #424ae8;
+}
+
+.bg_purple {
+    background-color: #d41ee4;
+}
