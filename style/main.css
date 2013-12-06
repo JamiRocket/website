@@ -1,6 +1,27 @@
 body {
     background-color: #1f110b;
+    background-image: url('bg.png');
     margin:auto;
+}
+
+#content {
+    margin:5px;
+    color:white;
+    padding:5px;
+    font-family:sans-serif,serif;
+}
+
+#float_break {
+    clear:both;
+}
+
+#star_rating {
+    font-weight:bold;
+    font-size:20px;
+}
+
+.star {
+    width:25px;
 }
 
 .bg_orange {
@@ -21,4 +42,9 @@ body {
 
 .bg_purple {
     background-color: #d41ee4;
+}
+
+
+h1 {
+    font-size:50px;
 }
